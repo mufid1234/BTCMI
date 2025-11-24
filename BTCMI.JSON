@@ -4,7 +4,7 @@
   "decimals": 18,
   "chainId": 143,
   "address": "0x7a5a187f515411c547b95c15880ad18fc649be81",
-  "logoURI": "https://raw.githubusercontent.com/mufid1234/BTCMI/8fbc6c8f7675350c172446886637a2294014cce6/file_0000000010b47209bcb1244aa5f46b92.png",
+  "logoURI": "https://raw.githubusercontent.com/mufid1234/BTCMI/refs/heads/main/LogoBTCMI.png",
   "tags": ["meme", "community", "bitcoin-themed", "monad"],
   "description": "BTC Mon-Inu (BTCMI) is a meme token deployed on Monad Mainnet with a total supply of 21,000,000,000,000."
 }
