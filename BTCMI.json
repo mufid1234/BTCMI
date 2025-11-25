@@ -1,0 +1,8 @@
+{
+  "name": "BTC Mon-Inu",
+  "symbol": "BTCMI",
+  "decimals": 18,
+  "chainId": 143,
+  "address": "0x7a5a187F515411c547B95C15880ad18fC649Be81",
+  "logoURI": "https://raw.githubusercontent.com/mufid1234/BTCMI/main/LogoBTCMI.png"
+}
